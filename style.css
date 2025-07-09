@@ -1,21 +1,23 @@
-
-.haruki{
+.haruki {
     background-color: rgb(147, 249, 4);
     color: rgb(255, 0, 0);
 }
-.kanta{
+
+.kanta {
     background-color: rgb(1, 1, 1);
     color: rgb(237, 27, 27);
+}
 
-.yoshida{
+.yoshida {
     background-color: rgb(134, 194, 255);
-  }
-.kisei{
+}
+
+.kisei {
     background-color: rgb(137, 223, 163);
     color: rgb(3, 3, 3);
- }
-div{
+}
+
+div {
     background-color: rgb(17, 212, 105);
     color: white;
 }
-
