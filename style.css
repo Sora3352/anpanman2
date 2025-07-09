@@ -4,7 +4,12 @@
 
 .yoshida{
     background-color: rgb(134, 194, 255);
-div {
+  }
+.kisei{
+    background-color: rgb(137, 223, 163);
+    color: rgb(3, 3, 3);
+ }
+div{
     background-color: rgb(17, 212, 105);
     color: white;
 }
